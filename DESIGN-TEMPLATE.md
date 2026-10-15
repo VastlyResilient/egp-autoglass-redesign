@@ -18,3 +18,5 @@ Hero uses separately reviewed v4 edit: first6.4s retained action, editorial hold
 October15 owner fullscreen revision: film covers the entire hero on every viewport. Portrait framing follows the right technician and suction-cup contact at84% horizontal focus; it intentionally crops the other technician rather than letterboxing. Scroll frames and reveal timing remain unchanged.
 
 Owner framing correction: portraitfilm now follows the LEFT installer at16% horizontal focus (supersedes84% right focus). Fullscreen coverage andtimeline preserved.
+
+October15 mobile quality/footer correction: preserve Windsor two-panel footer identity and existing type/colors; owner requests organized navigation instead of wrapping pills. Adapt existing footer into labeled Services/Your visit/Company lists, retaining every destination. Portrait film uses native720×1080 crop from approved1920×1080 edit at x192 (matches16% focal position after cover); preserve192frames/24fps and same timing. Reuse established Windsor fixture, no new stylistic reference.

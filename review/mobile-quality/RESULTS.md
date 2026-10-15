@@ -1,0 +1,5 @@
+# Mobile quality and footer revision
+
+Portrait film: 192 native720×1080 WebP frames croppedx192 from the approved1920×1080 reviewed edit. Same8-second/24fps timeline and left-installer16% framing. Previous mobile rendition was960×540 landscape, leaving approximately250×540 visible pixels on a390×844 portrait screen; new rendition retains approximately499×1080 visible source pixels. No invented detail/upscaling/newgeneration. Portrait poster matches. Landscape retains1440×810 rendition. Resize tested atframe131 withboth renditionsready. Cache12portrait/18desktop; three concurrentrequests. Entireportraitsequence29.21MB versus12.07MB oldmobile; physicalphone network/decodeperformance notverified.
+
+Footer: three labeled text-link groups replace oversizedwrappingpills. All10destinations retained across12routes, min44px linktarget. Browser reviewed320/390/tablet/desktop. All12routes at320passed114reveal visibility checks andno root overflow. Screenshot/source independentreview inINDEPENDENT.md. No claim of physicaldevice verification.
