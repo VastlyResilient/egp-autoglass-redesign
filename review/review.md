@@ -24,3 +24,17 @@ The general reveal now completes within the bottom 12% of the viewport. The upda
 Parent supplied owner context: full mobile motion by default plus a deliberate manual reduction control was explicitly requested. Therefore the earlier system-preference finding is an intentional owner tradeoff, not an undisclosed implementation defect. The current site still does not automatically honor the operating-system preference; this remains accurately documented here without recommending silent alteration of the approved behavior.
 
 Menu source now makes main/footer inert while open. Interaction remains to be verified in-browser. The added noscript fallback has a concrete selector typo: `.services-pin` does not match the actual `.service-pin`, so its intended unpinning/auto-height rules do not apply. Correct this and verify a mobile JavaScript-disabled capture. This is the remaining concrete source defect identified in this follow-up.
+
+## Desktop and tablet opening review
+
+Independently inspected newly supplied desktop openings: home hero, repair, about, contact, quote, insurance, order, privacy and 404; and all ten tablet opening captures including replacement. Also inspected mobile-hero.png and mobile-services.png. Desktop replacement opening was not present as a separate capture in this directory at review time; tablet and mobile replacement are reviewed.
+
+No new horizontal overflow, heading collisions or illegible main-content layout found in these desktop/tablet opening frames. Tablet repair's tighter image crop retains the repair mechanism and visible damage. Tablet replacement preserves its full exploded-car illustration. Quote/order actions are visible ahead of the optional provider disclosure on desktop and tablet. Contact labels, fields and draft explanation fit in the tablet two-column arrangement. Insurance's corrected “Talk to EGP” CTA is visible in the tablet frame.
+
+Verified the noscript selector is now `.service-pin`, resolving the source typo. This source check does not establish the actual JavaScript-disabled rendered outcome.
+
+The homepage tablet frame is an initial image-only staged state with menu and scroll cue; desktop hero is a later text-visible state. These captures are different scroll states and therefore cannot establish matching motion behavior. Both explicitly disclose “Film production pending · visual preview.” No final-film approval or cinematic-motion parity is claimed. Faint entry text still exists at the lowest edge of some desktop captures, consistent with the narrowed reveal interval; content higher in the viewport is readable.
+
+This expanded review supports handing over a clearly identified visual preview. It does not replace final-film generation/approval, moving-sequence comparison, provider testing or whole-site deployed regression acceptance. Earlier findings and repairs remain preserved above as an audit trail.
+
+Additional captured-state caution: mobile-services.png shows a faint outgoing replacement card behind the incoming repair card; the repair card and link are also partially faded. This is an intermediate transition frame, not a verified hold state. Check that each service receives a fully opaque, usable hold and that fast/reverse scrolling does not leave a visitor unable to choose a service. Mobile hero’s reviewed text-visible state fits its title and two CTAs within the viewport.
