@@ -1,0 +1,2 @@
+HTML local dependencies: []
+JavaScript syntax checked with node --check.
