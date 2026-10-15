@@ -1,0 +1,9 @@
+{
+  "state": "http_error",
+  "status": 400,
+  "job_id": null,
+  "response": "Original response body was not captured.",
+  "confirmed_issue": "Published starting-image URL returned 404 immediately after submission; subsequently returned 200 after Pages deployment completed.",
+  "billing": "Unconfirmed; no job or usage receipt returned.",
+  "retry_authorized": false
+}
