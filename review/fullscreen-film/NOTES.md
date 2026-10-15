@@ -1,0 +1,2 @@
+# Fullscreen revision
+Owner requested screen-covering film. Replaced contain/phone landscapeband with cover across fullhero. Portrait phones and tablets focus84% on right installer and hand/cup contact; otherworker intentionally cropped. Text facts moved aboveheadline, gradual gradient provides contrast. Film source,192frame sequences,cache,reversal andtext timing unchanged. CSSversion7 prevents old layoutcache. Captures: desktop1440x900,tablet820x1180,phone390x844,shortphone390x600 responsiveiframes; physicaldevicebehavior not newlycertified.

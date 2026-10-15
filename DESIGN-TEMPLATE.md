@@ -14,3 +14,5 @@ EGP facts replace template metrics; service assurances explicitly labeled, never
 
 ## Reviewed film integration — October 15, 2026
 Hero uses separately reviewed v4 edit: first6.4s retained action, editorial hold to8s. Same192-frame scroll sequence desktop/mobile, bounded decoded cache, staged HTML; full landscape pane preserved on portrait displays rather than cropping technicians away. This is an explicit cinematic/phone-parity adaptation of the Windsor lead. No further paid generation. Technical evidence in review/film-integration; original failed clips preserved locally. Source is illustrative, not EGP staff footage.
+
+October15 owner fullscreen revision: film covers the entire hero on every viewport. Portrait framing follows the right technician and suction-cup contact at84% horizontal focus; it intentionally crops the other technician rather than letterboxing. Scroll frames and reveal timing remain unchanged.
