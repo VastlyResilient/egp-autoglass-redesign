@@ -22,3 +22,5 @@ The sampled sequence also gives the pane a changing right-edge profile during de
 - No wipers are visibly obstructing the opening, and the hood protection is retained.
 
 This is an independent visual plausibility assessment, not mechanical-expert certification. The primary finding is the visible unresolved pane alignment/seating at the end, not a general judgment of the technicians, equipment model or real-world installation procedure.
+
+Follow-up: also inspected native full-5.png supplied by the parent. The same upper-right projecting corner/right-side misalignment is visible before the ending tool movement. Therefore the failure is not based merely on deviation from the requested final hold. Moving or releasing suction handles after a correctly seated pane could be harmless; the pane’s unresolved fit in this clip is the material visual defect.

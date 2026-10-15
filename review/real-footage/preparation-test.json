@@ -1,0 +1,6 @@
+{
+  "test": "Rejected guided-v3 cannot produce scroll frames",
+  "passed": true,
+  "exit_code": 2,
+  "stderr": "usage: prepare-film.py [-h] --review REVIEW --output OUTPUT\nprepare-film.py: error: Film review is not accepted. No frames written.\n"
+}

@@ -1,0 +1,14 @@
+{
+  "status": "rejected",
+  "clip": "/private/tmp/egp-windsor/assets/install-guided-v3.mp4",
+  "sha256": "7646c3d52f952b02fe0fdcc7296936526586eb1521851af2a834a264179c522f",
+  "checks": {
+    "geometry": {
+      "result": "fail",
+      "finding": "Upper-right pane edge does not seat convincingly; see independent review."
+    }
+  },
+  "evidence": [
+    "/private/tmp/egp-windsor/review/guided-v3/RESULT-INDEPENDENT.md"
+  ]
+}
