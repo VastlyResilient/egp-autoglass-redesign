@@ -1,0 +1,64 @@
+{
+  "status": "accepted",
+  "scope": "Technical preparation gate only; not owner acceptance or exhaustive per-frame certification",
+  "clip": "/private/tmp/egp-windsor/assets/install-guided-v4-reviewed-edit.mp4",
+  "sha256": "7f1465e4ca854ca07dbdfe56653dd85d14844baaff3263909d7fcd06f9d982fc",
+  "checks": {
+    "story": {
+      "result": "pass",
+      "finding": "Two technicians guide a single pane into the existing opening; reviewed retained action ends seated."
+    },
+    "causality": {
+      "result": "pass",
+      "finding": "Paired endpoint guidance retains vehicle and tool identities; initial positioning adjustment then lowering is visible."
+    },
+    "contact": {
+      "result": "pass",
+      "finding": "Independent dense-sample review found coherent hands and cups through the 6.4s cutoff; rejected later sliding omitted."
+    },
+    "anatomy": {
+      "result": "pass",
+      "finding": "No material duplicate limbs or hand discontinuity identified in retained dense samples."
+    },
+    "identity": {
+      "result": "pass",
+      "finding": "Same vehicle, technicians, tools and workshop across retained sampled sequence."
+    },
+    "geometry": {
+      "result": "pass",
+      "finding": "Full pane border aligns with opening by reviewed endpoint; no material protruding corner in retained endpoint."
+    },
+    "lighting": {
+      "result": "pass",
+      "finding": "Consistent workshop lighting and reflections in reviewed samples."
+    },
+    "artifacts": {
+      "result": "pass",
+      "finding": "No material new mirror, duplicate pane or morph in retained samples; not a claim of mechanical certification."
+    },
+    "ending": {
+      "result": "pass",
+      "finding": "6.4s seated endpoint is held through8s; original failed tail preserved separately."
+    },
+    "desktop_crop": {
+      "result": "pass",
+      "finding": "1280x720 browser captures show complete pane and both tool contacts above HTML text."
+    },
+    "mobile_crop": {
+      "result": "pass",
+      "finding": "390x844 and390x600 real browser iframe captures preserve whole16:9 pane/technicians; no covercrop; deliberate smaller film presentation."
+    }
+  },
+  "events": [
+    "0s raised pane",
+    "retained positioning and lowering",
+    "6.4s seated endpoint",
+    "6.4\u20138s editorial frozen hold"
+  ],
+  "evidence": [
+    "/private/tmp/egp-windsor/review/guided-v4/RESULT-EDIT-INDEPENDENT.md",
+    "/private/tmp/egp-windsor/review/film-integration/desktop-end.png",
+    "/private/tmp/egp-windsor/review/film-integration/phone-end.png",
+    "/private/tmp/egp-windsor/review/film-integration/short-phone-end.png"
+  ]
+}
