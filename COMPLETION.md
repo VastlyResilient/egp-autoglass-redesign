@@ -1,14 +1,20 @@
-# EGP Windsor preview — October 15, 2026
-Status: Windsor build with generated scroll-controlled landing film. Owner design acceptance remains open.
+# EGP Windsor rebuild — 2026-10-15
 
-Built eight company routes plus privacy and 404. Original quote/tracking provider retained as optional embeds with immediate call and external alternatives. Contact prepares an email draft rather than pretending to submit it.
+## Status
+Rebuilt12routes with Windsor's inspected visual system and principal scroll sequences. Independent captured-state visual review passed after repairs. This is not owner acceptance or a claim of exact private Framer settings.
 
-Reference: Windsor, selected by owner. See research/REFERENCE.md for observation limits. Exact private editor settings not claimed.
+## Changed
+Geist typography and measured hierarchy; pill navigation and centered desktop logo; split introduction; floating-label globe; sequential rotating service cards; expanding-image horizontal sequence; unequal service tiles; editorial information tiles; moving service commitments; FAQ; circular image closing CTA; matching inner-page hierarchy and footer.
 
-Generated editorial media are illustrative, not photographs of EGP facilities or staff. One approved eight-second Google Veo 3.1 Fast generation completed. Actual charge $0.96. Original MP4 is assets/landing-film.mp4. Both viewport frame sets contain 192 frames at 24fps; desktop1440px, mobile960px. Canvas bypasses mobile autoplay dependency and follows the same scroll position and HTML staging on both layouts.
+## Verification
+11inner routes at1440,820,390 widths with opening/middle/end captures. Full homepage desktop and phone sequences. Fixed tablet overflow, heading contrast, orbit collisions, footer targets, short-screen menu, short-phone CTA visibility, reduced-motion proof content. Local links/assets and JSsyntax passed. Independent source and rendered reports are in review/; retained initial failures and subsequent repairs.
 
-Film verification:1440x900 and390x844 browser viewports. Initial state, middle99/191, completion191/191, reverse76/191 checked. Target/rendered frame indices matched after loading. Completion showed all text/actions and hid cue. Max6 concurrent frame requests; failed URLs not repeatedly retried; bounded decoded-frame cache. A browser viewport test is not a physical iPhone/Safari test.
+## Video is unfinished
+The owner rejected the previous wiper clip. It is no longer initialized. A temporary illustrative still is shown. The owner requested direct windshield installation; exact prompt and dry-run exist in research/. A new one-submission$0.96approval is pending; no new paid submission made. After approval, generate once, inspect installation physics, then integrate desktop/mobile scroll-scrub and independently review before claiming video completion.
 
-Review: independent captured-frame/source review in review/review.md. Provider blank-state and selflink findings repaired. Noscript class selector subsequently corrected. Desktop, tablet and mobile route opening captures exist. Full intermediate-state and footer coverage, JavaScript-disabled browser execution, physical phone checks and source mobile comparison remain outstanding. Not all quality gates are closed.
+## Limits
+Animation timing is reconstructed, not exact private editor extraction. Decorative globe texture differs. Phone card choreography follows owner's animation-parity requirement instead of Windsor's simpler phone stack. No source SFX was verified. External quote/tracking providers may render blank; call/open controls remain available. No real-device iOS test is claimed. Current proof is local rendered evidence plus post-publish smoke checks as recorded.
 
-Owner's full-motion default retained with an explicit Reduce motion menu control. No claim of system-preference automatic reduction.
+Reference map: research/windsor-exact/IMPLEMENTATION-MAP.md
+Video contract: research/VIDEO-REPLACEMENT.md
+Independent review: review/final-review.md
