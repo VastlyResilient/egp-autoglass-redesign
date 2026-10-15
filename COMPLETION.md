@@ -18,3 +18,6 @@ Animation timing is reconstructed, not exact private editor extraction. Decorati
 Reference map: research/windsor-exact/IMPLEMENTATION-MAP.md
 Video contract: research/VIDEO-REPLACEMENT.md
 Independent review: review/final-review.md
+
+## Published smoke check
+Revision16d13d8: all12publicHTMLroutes returned200 with the newversion5stylesheet. Published desktop hero rendered with no broken images; phone service-card progress changed .443→.180 on reverse scroll. Public captures saved in review/published-*.png. This does not validate the pending installation film.

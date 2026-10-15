@@ -1,0 +1,62 @@
+[
+  {
+    "route": "index.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "auto-glass-replacement.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "insurance-claims.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "404.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "contact-us.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "instant-quote.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "guides.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "about-us.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "auto-glass-repair.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "services.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "order-status.html",
+    "status": 200,
+    "newBuild": true
+  },
+  {
+    "route": "privacy.html",
+    "status": 200,
+    "newBuild": true
+  }
+]
