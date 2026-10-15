@@ -13,3 +13,9 @@ The rejected-status, exact source hash, required pass checks and evidence-file c
 No additional material conversion defect found for the intended short, single-video-stream clip workflow. Relative clip/evidence paths currently resolve against the command working directory, not the review file; use absolute paths in review records or document/change that convention to prevent avoidable rejected runs. The existing rejected-input test supports the failure gate only; successful conversion was intentionally not exercised.
 
 Result: **one staging-boundary fix recommended before treating “live website unchanged” as an unconditional guarantee.** The normal explicitly external staging workflow is otherwise reviewable.
+
+## Narrow-fix recheck
+
+Confirmed current source resolves the output path and requires the resolved review/film-staging root to be one of its parents before loading the review or creating directories. This rejects the staging root itself, sibling/path-prefix lookalikes, parent traversal, and ordinary resolved symlink escapes, while allowing new nested staging destinations. The previously identified direct live-assets output path is now rejected.
+
+Parent reports both negative tests exited 2 without outputs: assets/unsafe-new-film, and a rejected review directed into permitted staging. No accepted-source conversion was performed by this reviewer. **P2 resolved; no remaining material issue found in the narrow staging-boundary review.** The earlier note about absolute clip/evidence paths remains a usage convention, not a blocker.
