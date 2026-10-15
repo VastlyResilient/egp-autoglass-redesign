@@ -1,0 +1,2151 @@
+{
+  "viewport": "320,568",
+  "routes": [
+    {
+      "route": "index",
+      "overflow": true,
+      "reveals": [
+        {
+          "text": "A local glass specialist, built around your d",
+          "opacity": 0.940809
+        },
+        {
+          "text": "EGP brings auto glass repair and replacement ",
+          "opacity": 0.938301
+        },
+        {
+          "text": "Based in Meriden.Connected to your community.",
+          "opacity": 0.938433
+        },
+        {
+          "text": "MeridenOur local base",
+          "opacity": 0.920902
+        },
+        {
+          "text": "MobileNo mobile service charge",
+          "opacity": 1
+        },
+        {
+          "text": "Central CTSurrounding towns",
+          "opacity": 1
+        },
+        {
+          "text": "Call EGPConfirm your location",
+          "opacity": 0.942168
+        },
+        {
+          "text": "Care.",
+          "opacity": 1
+        },
+        {
+          "text": "Clarity.",
+          "opacity": 1
+        },
+        {
+          "text": "Convenience.",
+          "opacity": 1
+        },
+        {
+          "text": "Complete auto glass service, brought to you.",
+          "opacity": 0.93827
+        },
+        {
+          "text": "Local knowledge. Careful service. A clearer n",
+          "opacity": 0.901163
+        },
+        {
+          "text": "Find the right route back to a clear view.",
+          "opacity": 0.962862
+        },
+        {
+          "text": "Know what to expect before you book.",
+          "opacity": 0.901148
+        },
+        {
+          "text": "Service you can plan around.",
+          "opacity": 0.937723
+        },
+        {
+          "text": "Clear answers before you arrange your service",
+          "opacity": 0.938195
+        },
+        {
+          "text": "Do you come to me?Yes. EGP offers free mobile",
+          "opacity": 1
+        },
+        {
+          "text": "Should my glass be repaired or replaced?EGP c",
+          "opacity": 1
+        },
+        {
+          "text": "Can you help with insurance?EGP coordinates g",
+          "opacity": 1
+        },
+        {
+          "text": "How do I get a quote?Use EGP’s existing onlin",
+          "opacity": 1
+        },
+        {
+          "text": "What guarantee is offered?EGP states that its",
+          "opacity": 1
+        }
+      ],
+      "scenes": [
+        [
+          {
+            "type": "hero",
+            "p": "0",
+            "top": 0,
+            "frame": "0",
+            "beats": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "cards": [],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "hero",
+            "p": "0.15011184548672696",
+            "top": -162,
+            "frame": "36",
+            "beats": [
+              0,
+              0,
+              0,
+              0.301118,
+              0,
+              0
+            ],
+            "cards": [],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "hero",
+            "p": "0.3497976646372804",
+            "top": -377.5,
+            "frame": "84",
+            "beats": [
+              0,
+              0,
+              0,
+              1,
+              0.897977,
+              0
+            ],
+            "cards": [],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "hero",
+            "p": "0.5499467919529163",
+            "top": -593.5,
+            "frame": "131",
+            "beats": [
+              1,
+              0.199468,
+              0,
+              1,
+              1,
+              0
+            ],
+            "cards": [],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "hero",
+            "p": "0.7500959192685522",
+            "top": -809.5,
+            "frame": "179",
+            "beats": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              0
+            ],
+            "cards": [],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "hero",
+            "p": "0.9998190202480146",
+            "top": -1079,
+            "frame": "191",
+            "beats": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              1
+            ],
+            "cards": [],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "hero",
+            "p": "0.5499467919529163",
+            "top": -593.5,
+            "frame": "131",
+            "beats": [
+              1,
+              0.199468,
+              0,
+              1,
+              1,
+              0
+            ],
+            "cards": [],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "hero",
+            "p": "0.15011184548672696",
+            "top": -162,
+            "frame": "36",
+            "beats": [
+              0,
+              0,
+              0,
+              0.301118,
+              0,
+              0
+            ],
+            "cards": [],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "hero",
+            "p": "0",
+            "top": 0,
+            "frame": "0",
+            "beats": [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "cards": [],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          }
+        ],
+        [
+          {
+            "type": "assembly",
+            "p": "0",
+            "top": 0.0546875,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.1500859650710343",
+            "top": -323.9453125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "1",
+                "inert": false,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.3500027146864537",
+            "top": -755.4453125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "1",
+                "inert": false,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.5499194643018731",
+            "top": -1186.9453125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0.999463",
+                "inert": false,
+                "transform": "matrix3d(1, 0.000112449, 0.000281123, 0, -0.000112449, 1, -3.1612e-08, 0, -0.000281123, 0, 1, 0, 0, 0.274466, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.7498362139172926",
+            "top": -1618.4453125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0.998908",
+                "inert": false,
+                "transform": "matrix3d(1, 0.000228689, 0.000571721, 0, -0.000228688, 1, -1.30746e-07, 0, -0.000571721, 0, 1, 0, 0, 0.558183, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.9997900642475794",
+            "top": -2157.9453125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "1",
+                "inert": false,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.5499194643018731",
+            "top": -1186.9453125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0.999463",
+                "inert": false,
+                "transform": "matrix3d(1, 0.000112449, 0.000281123, 0, -0.000112449, 1, -3.1612e-08, 0, -0.000281123, 0, 1, 0, 0, 0.274466, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.1500859650710343",
+            "top": -323.9453125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "1",
+                "inert": false,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0",
+            "top": 0.0546875,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          }
+        ],
+        [
+          {
+            "type": "horizontal",
+            "p": "0.00002427253198917445",
+            "top": -0.046875,
+            "beats": [],
+            "cards": [],
+            "travel": "-0.023107450453694077px",
+            "fill": [
+              "0.0001427795999363203",
+              "0",
+              "0",
+              "0"
+            ],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "horizontal",
+            "p": "0.14993143009713059",
+            "top": -289.546875,
+            "beats": [],
+            "cards": [],
+            "travel": "-142.7347214524683px",
+            "fill": [
+              "0.8819495888066504",
+              "0",
+              "0",
+              "0"
+            ],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "horizontal",
+            "p": "0.3500665471918703",
+            "top": -676.046875,
+            "beats": [],
+            "cards": [],
+            "travel": "-333.2633529266605px",
+            "fill": [
+              "1",
+              "0.7650973364227664",
+              "0",
+              "0"
+            ],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "horizontal",
+            "p": "0.5499427572787255",
+            "top": -1062.046875,
+            "beats": [],
+            "cards": [],
+            "travel": "-523.5455049293467px",
+            "fill": [
+              "1",
+              "1",
+              "0.646722101639562",
+              "0"
+            ],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "horizontal",
+            "p": "0.7498189673655807",
+            "top": -1448.046875,
+            "beats": [],
+            "cards": [],
+            "travel": "-713.8276569320328px",
+            "fill": [
+              "1",
+              "1",
+              "1",
+              "0.528346866856357"
+            ],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "horizontal",
+            "p": "0.9999231369820343",
+            "top": -1931.046875,
+            "beats": [],
+            "cards": [],
+            "travel": "-951.9268264068967px",
+            "fill": [
+              "1",
+              "1",
+              "1",
+              "1"
+            ],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "horizontal",
+            "p": "0.5499427572787255",
+            "top": -1062.046875,
+            "beats": [],
+            "cards": [],
+            "travel": "-523.5455049293467px",
+            "fill": [
+              "1",
+              "1",
+              "0.646722101639562",
+              "0"
+            ],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "horizontal",
+            "p": "0.14993143009713059",
+            "top": -289.546875,
+            "beats": [],
+            "cards": [],
+            "travel": "-142.7347214524683px",
+            "fill": [
+              "0.8819495888066504",
+              "0",
+              "0",
+              "0"
+            ],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "horizontal",
+            "p": "0.00002427253198917445",
+            "top": -0.046875,
+            "beats": [],
+            "cards": [],
+            "travel": "-0.023107450453694077px",
+            "fill": [
+              "0.0001427795999363203",
+              "0",
+              "0",
+              "0"
+            ],
+            "orbit": [],
+            "copy": ""
+          }
+        ],
+        [
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 454.375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-0.0671722px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 398.875,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-149.19px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 325.375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-346.676px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 251.375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-545.506px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 177.375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-744.336px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 85.375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-991.53px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 251.375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-545.506px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 398.875,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-149.19px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 454.375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-0.0671722px)",
+            "orbit": [],
+            "copy": ""
+          }
+        ],
+        [
+          {
+            "type": "orbit",
+            "p": "0",
+            "top": 0.0234375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "orbit": [
+              {
+                "x": "-480.67781219061635px",
+                "y": "-158.4768447291099px",
+                "inert": true
+              },
+              {
+                "x": "-343.4737202919261px",
+                "y": "-166.56819343620683px",
+                "inert": true
+              },
+              {
+                "x": "-206.13721273574214px",
+                "y": "-171.96415951414852px",
+                "inert": true
+              },
+              {
+                "x": "-68.72123536004732px",
+                "y": "-174.66266271529602px",
+                "inert": false
+              },
+              {
+                "x": "68.72123536004732px",
+                "y": "-174.66266271529602px",
+                "inert": false
+              },
+              {
+                "x": "206.13721273574214px",
+                "y": "-171.96415951414852px",
+                "inert": true
+              },
+              {
+                "x": "343.4737202919261px",
+                "y": "-166.56819343620683px",
+                "inert": true
+              },
+              {
+                "x": "480.67781219061635px",
+                "y": "-158.4768447291099px",
+                "inert": true
+              }
+            ],
+            "copy": "0"
+          },
+          {
+            "type": "orbit",
+            "p": "0.14992756015258216",
+            "top": -255.4765625,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "orbit": [
+              {
+                "x": "-343.39528627582735px",
+                "y": "106.6265551670084px",
+                "inert": true
+              },
+              {
+                "x": "-291.0627031995834px",
+                "y": "-19.51244479053554px",
+                "inert": true
+              },
+              {
+                "x": "-194.46070001109373px",
+                "y": "-116.04119460991468px",
+                "inert": false
+              },
+              {
+                "x": "-68.28203746542947px",
+                "y": "-168.27807506719924px",
+                "inert": false
+              },
+              {
+                "x": "68.28203746542947px",
+                "y": "-168.27807506719924px",
+                "inert": false
+              },
+              {
+                "x": "194.46070001109373px",
+                "y": "-116.04119460991468px",
+                "inert": false
+              },
+              {
+                "x": "291.0627031995834px",
+                "y": "-19.51244479053554px",
+                "inert": true
+              },
+              {
+                "x": "343.39528627582735px",
+                "y": "106.6265551670084px",
+                "inert": true
+              }
+            ],
+            "copy": "0"
+          },
+          {
+            "type": "orbit",
+            "p": "0.35004493104460094",
+            "top": -596.4765625,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "orbit": [
+              {
+                "x": "-122.68065352402253px",
+                "y": "124.79766524626464px",
+                "inert": false
+              },
+              {
+                "x": "-174.9935973991161px",
+                "y": "1.4969533446488086px",
+                "inert": false
+              },
+              {
+                "x": "-124.79766524626467px",
+                "y": "-122.68065352402252px",
+                "inert": false
+              },
+              {
+                "x": "-1.4969533446488512px",
+                "y": "-174.99359739911614px",
+                "inert": false
+              },
+              {
+                "x": "122.68065352402252px",
+                "y": "-124.79766524626467px",
+                "inert": false
+              },
+              {
+                "x": "174.99359739911614px",
+                "y": "-1.4969533446488512px",
+                "inert": false
+              },
+              {
+                "x": "124.7976652462647px",
+                "y": "122.68065352402249px",
+                "inert": false
+              },
+              {
+                "x": "1.4969533446488725px",
+                "y": "174.9935973991161px",
+                "inert": false
+              }
+            ],
+            "copy": "0"
+          },
+          {
+            "type": "orbit",
+            "p": "0.35004493104460094",
+            "top": -936.9765625,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "orbit": [
+              {
+                "x": "-122.68065352402253px",
+                "y": "124.79766524626464px",
+                "inert": false
+              },
+              {
+                "x": "-174.9935973991161px",
+                "y": "1.4969533446488086px",
+                "inert": false
+              },
+              {
+                "x": "-124.79766524626467px",
+                "y": "-122.68065352402252px",
+                "inert": false
+              },
+              {
+                "x": "-1.4969533446488512px",
+                "y": "-174.99359739911614px",
+                "inert": false
+              },
+              {
+                "x": "122.68065352402252px",
+                "y": "-124.79766524626467px",
+                "inert": false
+              },
+              {
+                "x": "174.99359739911614px",
+                "y": "-1.4969533446488512px",
+                "inert": false
+              },
+              {
+                "x": "124.7976652462647px",
+                "y": "122.68065352402249px",
+                "inert": false
+              },
+              {
+                "x": "1.4969533446488725px",
+                "y": "174.9935973991161px",
+                "inert": false
+              }
+            ],
+            "copy": "0"
+          },
+          {
+            "type": "orbit",
+            "p": "0.35004493104460094",
+            "top": -1277.9765625,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "orbit": [
+              {
+                "x": "-122.68065352402253px",
+                "y": "124.79766524626464px",
+                "inert": false
+              },
+              {
+                "x": "-174.9935973991161px",
+                "y": "1.4969533446488086px",
+                "inert": false
+              },
+              {
+                "x": "-124.79766524626467px",
+                "y": "-122.68065352402252px",
+                "inert": false
+              },
+              {
+                "x": "-1.4969533446488512px",
+                "y": "-174.99359739911614px",
+                "inert": false
+              },
+              {
+                "x": "122.68065352402252px",
+                "y": "-124.79766524626467px",
+                "inert": false
+              },
+              {
+                "x": "174.99359739911614px",
+                "y": "-1.4969533446488512px",
+                "inert": false
+              },
+              {
+                "x": "124.7976652462647px",
+                "y": "122.68065352402249px",
+                "inert": false
+              },
+              {
+                "x": "1.4969533446488725px",
+                "y": "174.9935973991161px",
+                "inert": false
+              }
+            ],
+            "copy": "0"
+          },
+          {
+            "type": "orbit",
+            "p": "0.9999862455985915",
+            "top": -1703.9765625,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "orbit": [
+              {
+                "x": "-129.02353394177166px",
+                "y": "-118.22828633274055px",
+                "inert": false
+              },
+              {
+                "x": "-7.633392788933776px",
+                "y": "-174.8334387768251px",
+                "inert": false
+              },
+              {
+                "x": "118.22828633274054px",
+                "y": "-129.0235339417717px",
+                "inert": false
+              },
+              {
+                "x": "174.83343877682512px",
+                "y": "-7.633392788933811px",
+                "inert": false
+              },
+              {
+                "x": "129.0235339417717px",
+                "y": "118.22828633274054px",
+                "inert": false
+              },
+              {
+                "x": "7.633392788933811px",
+                "y": "174.83343877682512px",
+                "inert": false
+              },
+              {
+                "x": "-118.22828633274051px",
+                "y": "129.02353394177172px",
+                "inert": false
+              },
+              {
+                "x": "-174.8334387768251px",
+                "y": "7.633392788933833px",
+                "inert": false
+              }
+            ],
+            "copy": "1"
+          },
+          {
+            "type": "orbit",
+            "p": "0.5498688747065728",
+            "top": -936.9765625,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "orbit": [
+              {
+                "x": "-174.93770324985883px",
+                "y": "4.669045048436665px",
+                "inert": false
+              },
+              {
+                "x": "-127.00114966859014px",
+                "y": "-120.39812283776007px",
+                "inert": false
+              },
+              {
+                "x": "-4.669045048436693px",
+                "y": "-174.93770324985883px",
+                "inert": false
+              },
+              {
+                "x": "120.39812283776006px",
+                "y": "-127.00114966859019px",
+                "inert": false
+              },
+              {
+                "x": "174.93770324985883px",
+                "y": "-4.669045048436693px",
+                "inert": false
+              },
+              {
+                "x": "127.00114966859019px",
+                "y": "120.39812283776006px",
+                "inert": false
+              },
+              {
+                "x": "4.669045048436729px",
+                "y": "174.93770324985883px",
+                "inert": false
+              },
+              {
+                "x": "-120.39812283776003px",
+                "y": "127.00114966859019px",
+                "inert": false
+              }
+            ],
+            "copy": "0"
+          },
+          {
+            "type": "orbit",
+            "p": "0.14992756015258216",
+            "top": -255.4765625,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "orbit": [
+              {
+                "x": "-343.39528627582735px",
+                "y": "106.6265551670084px",
+                "inert": true
+              },
+              {
+                "x": "-291.0627031995834px",
+                "y": "-19.51244479053554px",
+                "inert": true
+              },
+              {
+                "x": "-194.46070001109373px",
+                "y": "-116.04119460991468px",
+                "inert": false
+              },
+              {
+                "x": "-68.28203746542947px",
+                "y": "-168.27807506719924px",
+                "inert": false
+              },
+              {
+                "x": "68.28203746542947px",
+                "y": "-168.27807506719924px",
+                "inert": false
+              },
+              {
+                "x": "194.46070001109373px",
+                "y": "-116.04119460991468px",
+                "inert": false
+              },
+              {
+                "x": "291.0627031995834px",
+                "y": "-19.51244479053554px",
+                "inert": true
+              },
+              {
+                "x": "343.39528627582735px",
+                "y": "106.6265551670084px",
+                "inert": true
+              }
+            ],
+            "copy": "0"
+          },
+          {
+            "type": "orbit",
+            "p": "0",
+            "top": 0.0234375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "orbit": [
+              {
+                "x": "-480.67781219061635px",
+                "y": "-158.4768447291099px",
+                "inert": true
+              },
+              {
+                "x": "-343.4737202919261px",
+                "y": "-166.56819343620683px",
+                "inert": true
+              },
+              {
+                "x": "-206.13721273574214px",
+                "y": "-171.96415951414852px",
+                "inert": true
+              },
+              {
+                "x": "-68.72123536004732px",
+                "y": "-174.66266271529602px",
+                "inert": false
+              },
+              {
+                "x": "68.72123536004732px",
+                "y": "-174.66266271529602px",
+                "inert": false
+              },
+              {
+                "x": "206.13721273574214px",
+                "y": "-171.96415951414852px",
+                "inert": true
+              },
+              {
+                "x": "343.4737202919261px",
+                "y": "-166.56819343620683px",
+                "inert": true
+              },
+              {
+                "x": "480.67781219061635px",
+                "y": "-158.4768447291099px",
+                "inert": true
+              }
+            ],
+            "copy": "0"
+          }
+        ]
+      ],
+      "disclosures": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "about-us",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "About",
+          "opacity": 1
+        },
+        {
+          "text": "Locally owned auto glass repair and replaceme",
+          "opacity": 1
+        },
+        {
+          "text": "We bring careful auto glass service to your v",
+          "opacity": 0.938418
+        },
+        {
+          "text": "LocalMeriden, Connecticut",
+          "opacity": 0.938157
+        },
+        {
+          "text": "MobileWe come to you",
+          "opacity": 1
+        },
+        {
+          "text": "RepairVehicle glass assessment",
+          "opacity": 0.997443
+        },
+        {
+          "text": "ReplaceWindshields and windows",
+          "opacity": 1
+        },
+        {
+          "text": "A straightforward process, from first call to",
+          "opacity": 0.938251
+        },
+        {
+          "text": "01Tell us about your glassShare your vehicle ",
+          "opacity": 1
+        },
+        {
+          "text": "02Arrange the detailsConfirm your location, s",
+          "opacity": 0.938528
+        },
+        {
+          "text": "03Get service guidanceAsk the installer about",
+          "opacity": 0.901056
+        },
+        {
+          "text": "Service you can plan around.",
+          "opacity": 0.93813
+        }
+      ],
+      "scenes": [
+        [
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 454.484375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(0px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 398.984375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-148.896px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 324.984375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-347.726px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 251.484375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-545.212px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 177.484375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-744.042px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 84.984375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-992px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 251.484375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-545.212px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 398.984375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(-148.896px)",
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "proof",
+            "p": "0",
+            "top": 454.484375,
+            "beats": [],
+            "cards": [],
+            "fill": [],
+            "rail": "translateX(0px)",
+            "orbit": [],
+            "copy": ""
+          }
+        ]
+      ],
+      "disclosures": []
+    },
+    {
+      "route": "services",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "Services",
+          "opacity": 1
+        },
+        {
+          "text": "Repair, replacement and free mobile service. ",
+          "opacity": 1
+        },
+        {
+          "text": "Find the right route back to a clear view.",
+          "opacity": 0.940328
+        },
+        {
+          "text": "Complete auto glass service, brought to you.",
+          "opacity": 0.938035
+        },
+        {
+          "text": "Clear answers before you arrange your service",
+          "opacity": 0.938251
+        },
+        {
+          "text": "Do you come to me?Yes. EGP offers free mobile",
+          "opacity": 1
+        },
+        {
+          "text": "Should my glass be repaired or replaced?EGP c",
+          "opacity": 1
+        },
+        {
+          "text": "Can you help with insurance?EGP coordinates g",
+          "opacity": 1
+        },
+        {
+          "text": "How do I get a quote?Use EGP’s existing onlin",
+          "opacity": 1
+        },
+        {
+          "text": "What guarantee is offered?EGP states that its",
+          "opacity": 1
+        }
+      ],
+      "scenes": [
+        [
+          {
+            "type": "assembly",
+            "p": "0.00005791331101257805",
+            "top": -0.125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0.000386089",
+                "inert": true,
+                "transform": "matrix3d(0.847214, 0.207833, 0.488911, 0, -0.180009, 0.978164, -0.10388, 0, -0.499825, 0, 0.866126, 0, 0, 511.003, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.14993756221156457",
+            "top": -323.625,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0.999584",
+                "inert": false,
+                "transform": "matrix3d(1, 8.71796e-05, 0.000217949, 0, -8.71796e-05, 1, -1.90007e-08, 0, -0.000217949, 0, 1, 0, 0, 0.212788, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.349854311826984",
+            "top": -755.125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0.999029",
+                "inert": false,
+                "transform": "matrix3d(1, 0.000203419, 0.000508548, 0, -0.000203419, 1, -1.03448e-07, 0, -0.000508548, 0, 1, 0, 0, 0.496505, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.5500027146864537",
+            "top": -1187.125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "1",
+                "inert": false,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.7499194643018732",
+            "top": -1618.625,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0.999463",
+                "inert": false,
+                "transform": "matrix3d(1, 0.000112449, 0.000281123, 0, -0.000112449, 1, -3.1612e-08, 0, -0.000281123, 0, 1, 0, 0, 0.274466, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.99987331463216",
+            "top": -2158.125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "1",
+                "inert": false,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.5500027146864537",
+            "top": -1187.125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "1",
+                "inert": false,
+                "transform": "matrix(1, 0, 0, 1, 0, 0)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.14993756221156457",
+            "top": -323.625,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0.999584",
+                "inert": false,
+                "transform": "matrix3d(1, 8.71796e-05, 0.000217949, 0, -8.71796e-05, 1, -1.90007e-08, 0, -0.000217949, 0, 1, 0, 0, 0.212788, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          },
+          {
+            "type": "assembly",
+            "p": "0.00005791331101257805",
+            "top": -0.125,
+            "beats": [],
+            "cards": [
+              {
+                "opacity": "0.000386089",
+                "inert": true,
+                "transform": "matrix3d(0.847214, 0.207833, 0.488911, 0, -0.180009, 0.978164, -0.10388, 0, -0.499825, 0, 0.866126, 0, 0, 511.003, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              },
+              {
+                "opacity": "0",
+                "inert": true,
+                "transform": "matrix3d(0.847101, 0.207912, 0.489074, 0, -0.180057, 0.978148, -0.103956, 0, -0.5, 0, 0.866025, 0, 0, 511.2, 0, 1)"
+              }
+            ],
+            "fill": [],
+            "orbit": [],
+            "copy": ""
+          }
+        ]
+      ],
+      "disclosures": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "guides",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "Information",
+          "opacity": 1
+        },
+        {
+          "text": "Clear next steps for insurance, quotes and ex",
+          "opacity": 1
+        },
+        {
+          "text": "Know what to expect before you book.",
+          "opacity": 0.938297
+        },
+        {
+          "text": "Clear answers before you arrange your service",
+          "opacity": 0.901695
+        },
+        {
+          "text": "Do you come to me?Yes. EGP offers free mobile",
+          "opacity": 1
+        },
+        {
+          "text": "Should my glass be repaired or replaced?EGP c",
+          "opacity": 1
+        },
+        {
+          "text": "Can you help with insurance?EGP coordinates g",
+          "opacity": 1
+        },
+        {
+          "text": "How do I get a quote?Use EGP’s existing onlin",
+          "opacity": 1
+        },
+        {
+          "text": "What guarantee is offered?EGP states that its",
+          "opacity": 1
+        }
+      ],
+      "scenes": [],
+      "disclosures": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "auto-glass-replacement",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "Glass replacement",
+          "opacity": 1
+        },
+        {
+          "text": "A clear view starts with the right glass.",
+          "opacity": 0.922988
+        },
+        {
+          "text": "Plan around your day.",
+          "opacity": 0.937277
+        },
+        {
+          "text": "Leave with clear instructions.",
+          "opacity": 0.937974
+        },
+        {
+          "text": "Find the right route back to a clear view.",
+          "opacity": 0.938062
+        },
+        {
+          "text": "Clear answers before you arrange your service",
+          "opacity": 0.901414
+        },
+        {
+          "text": "Do you come to me?Yes. EGP offers free mobile",
+          "opacity": 1
+        },
+        {
+          "text": "Should my glass be repaired or replaced?EGP c",
+          "opacity": 1
+        },
+        {
+          "text": "Can you help with insurance?EGP coordinates g",
+          "opacity": 1
+        },
+        {
+          "text": "How do I get a quote?Use EGP’s existing onlin",
+          "opacity": 1
+        },
+        {
+          "text": "What guarantee is offered?EGP states that its",
+          "opacity": 1
+        }
+      ],
+      "scenes": [],
+      "disclosures": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "auto-glass-repair",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "Glass repair",
+          "opacity": 1
+        },
+        {
+          "text": "Look closely. Choose clearly.",
+          "opacity": 0.938278
+        },
+        {
+          "text": "Mobile service, without the mobile fee.",
+          "opacity": 0.938388
+        },
+        {
+          "text": "Straightforward service.",
+          "opacity": 0.93852
+        },
+        {
+          "text": "Find the right route back to a clear view.",
+          "opacity": 0.965004
+        },
+        {
+          "text": "Clear answers before you arrange your service",
+          "opacity": 0.901526
+        },
+        {
+          "text": "Do you come to me?Yes. EGP offers free mobile",
+          "opacity": 1
+        },
+        {
+          "text": "Should my glass be repaired or replaced?EGP c",
+          "opacity": 1
+        },
+        {
+          "text": "Can you help with insurance?EGP coordinates g",
+          "opacity": 1
+        },
+        {
+          "text": "How do I get a quote?Use EGP’s existing onlin",
+          "opacity": 1
+        },
+        {
+          "text": "What guarantee is offered?EGP states that its",
+          "opacity": 1
+        }
+      ],
+      "scenes": [],
+      "disclosures": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "insurance-claims",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "Insurance assistance",
+          "opacity": 1
+        },
+        {
+          "text": "Tell EGP about the damage.",
+          "opacity": 0.938285
+        },
+        {
+          "text": "Confirm the details first.",
+          "opacity": 0.937982
+        },
+        {
+          "text": "Less back-and-forth.",
+          "opacity": 0.938505
+        },
+        {
+          "text": "Ask about your warranty.",
+          "opacity": 0.938285
+        },
+        {
+          "text": "Find the right route back to a clear view.",
+          "opacity": 0.939228
+        },
+        {
+          "text": "Clear answers before you arrange your service",
+          "opacity": 0.901332
+        },
+        {
+          "text": "Do you come to me?Yes. EGP offers free mobile",
+          "opacity": 1
+        },
+        {
+          "text": "Should my glass be repaired or replaced?EGP c",
+          "opacity": 1
+        },
+        {
+          "text": "Can you help with insurance?EGP coordinates g",
+          "opacity": 1
+        },
+        {
+          "text": "How do I get a quote?Use EGP’s existing onlin",
+          "opacity": 1
+        },
+        {
+          "text": "What guarantee is offered?EGP states that its",
+          "opacity": 1
+        }
+      ],
+      "scenes": [],
+      "disclosures": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "instant-quote",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "Get a quote",
+          "opacity": 1
+        },
+        {
+          "text": "Share your vehicle details through EGP’s exis",
+          "opacity": 1
+        },
+        {
+          "text": "Clear answers before you arrange your service",
+          "opacity": 0.938331
+        },
+        {
+          "text": "Do you come to me?Yes. EGP offers free mobile",
+          "opacity": 1
+        },
+        {
+          "text": "Should my glass be repaired or replaced?EGP c",
+          "opacity": 1
+        },
+        {
+          "text": "Can you help with insurance?EGP coordinates g",
+          "opacity": 1
+        },
+        {
+          "text": "How do I get a quote?Use EGP’s existing onlin",
+          "opacity": 1
+        },
+        {
+          "text": "What guarantee is offered?EGP states that its",
+          "opacity": 1
+        }
+      ],
+      "scenes": [],
+      "disclosures": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "order-status",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "Order status",
+          "opacity": 1
+        },
+        {
+          "text": "Check your existing order through EGP’s track",
+          "opacity": 1
+        },
+        {
+          "text": "Clear answers before you arrange your service",
+          "opacity": 0.938395
+        },
+        {
+          "text": "Do you come to me?Yes. EGP offers free mobile",
+          "opacity": 1
+        },
+        {
+          "text": "Should my glass be repaired or replaced?EGP c",
+          "opacity": 1
+        },
+        {
+          "text": "Can you help with insurance?EGP coordinates g",
+          "opacity": 1
+        },
+        {
+          "text": "How do I get a quote?Use EGP’s existing onlin",
+          "opacity": 1
+        },
+        {
+          "text": "What guarantee is offered?EGP states that its",
+          "opacity": 1
+        }
+      ],
+      "scenes": [],
+      "disclosures": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "contact-us",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "Contact us",
+          "opacity": 1
+        },
+        {
+          "text": "Connect with EGP for auto glass service that ",
+          "opacity": 1
+        },
+        {
+          "text": "Clear answers before you arrange your service",
+          "opacity": 0.938278
+        },
+        {
+          "text": "Do you come to me?Yes. EGP offers free mobile",
+          "opacity": 1
+        },
+        {
+          "text": "Should my glass be repaired or replaced?EGP c",
+          "opacity": 1
+        },
+        {
+          "text": "Can you help with insurance?EGP coordinates g",
+          "opacity": 1
+        },
+        {
+          "text": "How do I get a quote?Use EGP’s existing onlin",
+          "opacity": 1
+        },
+        {
+          "text": "What guarantee is offered?EGP states that its",
+          "opacity": 1
+        }
+      ],
+      "scenes": [],
+      "disclosures": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "privacy",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "Privacy",
+          "opacity": 1
+        },
+        {
+          "text": "Information about contact, external services ",
+          "opacity": 1
+        }
+      ],
+      "scenes": [],
+      "disclosures": []
+    },
+    {
+      "route": "404",
+      "overflow": false,
+      "reveals": [
+        {
+          "text": "A different route.",
+          "opacity": 1
+        },
+        {
+          "text": "This page could not be found. Continue to EGP",
+          "opacity": 1
+        }
+      ],
+      "scenes": [],
+      "disclosures": []
+    }
+  ]
+}

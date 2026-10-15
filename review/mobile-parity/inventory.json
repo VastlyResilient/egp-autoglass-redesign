@@ -1,0 +1,120 @@
+{
+  "index.html": {
+    "scenes": [
+      "hero",
+      "assembly",
+      "horizontal",
+      "proof",
+      "orbit"
+    ],
+    "reveals": 21,
+    "film": true,
+    "ticker": true,
+    "globe": true,
+    "projects": 2,
+    "disclosures": 5
+  },
+  "auto-glass-replacement.html": {
+    "scenes": [],
+    "reveals": 11,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 2,
+    "disclosures": 5
+  },
+  "insurance-claims.html": {
+    "scenes": [],
+    "reveals": 12,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 2,
+    "disclosures": 5
+  },
+  "404.html": {
+    "scenes": [],
+    "reveals": 2,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 0,
+    "disclosures": 0
+  },
+  "contact-us.html": {
+    "scenes": [],
+    "reveals": 8,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 0,
+    "disclosures": 5
+  },
+  "instant-quote.html": {
+    "scenes": [],
+    "reveals": 8,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 0,
+    "disclosures": 6
+  },
+  "guides.html": {
+    "scenes": [],
+    "reveals": 9,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 0,
+    "disclosures": 5
+  },
+  "about-us.html": {
+    "scenes": [
+      "proof"
+    ],
+    "reveals": 12,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 0,
+    "disclosures": 0
+  },
+  "auto-glass-repair.html": {
+    "scenes": [],
+    "reveals": 11,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 2,
+    "disclosures": 5
+  },
+  "services.html": {
+    "scenes": [
+      "assembly"
+    ],
+    "reveals": 10,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 2,
+    "disclosures": 5
+  },
+  "order-status.html": {
+    "scenes": [],
+    "reveals": 8,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 0,
+    "disclosures": 6
+  },
+  "privacy.html": {
+    "scenes": [],
+    "reveals": 2,
+    "film": false,
+    "ticker": false,
+    "globe": false,
+    "projects": 0,
+    "disclosures": 0
+  }
+}
