@@ -16,3 +16,7 @@ Required inspection before deployment:
 - Inspect phone crop for both handles/contact and a comprehensible installation; do not silently crop away failure.
 - Extract viewport-appropriate frame sequences only after visual pass; forward/reverse scrubbing, initial/final/fastscroll and mobile required.
 - Reviewer independently checks realism. Reject rather than hiding defects. Any paid retry requires new explicit approval.
+
+Owner approved one replacement submission in chat. Submitted once: gen-vid-1792060357-MxzrhX09GjHEQV8gvGAs. Same approved prompt/model/duration/resolution/aspect; no variants authorized.
+
+Generation completed: actualcost$0.96, receipt install-generation-receipt.json. First inspection FAILED: initial frame appears to show reflective glass already occupying the opening beneath the suspended pane; suspended perimeter is irregular, and placement gives a layered-glass impression. Wipers remain in place despite specified removal. Do not integrate. Await independent realism review; no retry submitted.
