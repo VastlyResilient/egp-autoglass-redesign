@@ -1,0 +1,11 @@
+{
+  "source": "assets/install-guided-v4.mp4",
+  "source_sha256": "2c37854a9bb632aff7472d9ea498dbbfd9942c5daacc40a2ab03004f8da95ade",
+  "edit": "Keep first6.4seconds, discard tool-sliding tail, clone finalframe through8seconds, remove audio",
+  "clip": "/private/tmp/egp-windsor/assets/install-guided-v4-reviewed-edit.mp4",
+  "sha256": "7f1465e4ca854ca07dbdfe56653dd85d14844baaff3263909d7fcd06f9d982fc",
+  "status": "passed sampled visual plausibility; not website-release reviewed",
+  "cost": 0.96,
+  "extra_generation": false,
+  "site_installed": false
+}
