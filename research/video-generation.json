@@ -1,0 +1,11 @@
+{
+  "model": "google/veo-3.1-fast",
+  "job_id": "gen-vid-1792057956-wKBmZ6M9iBmwZ3KUpoc2",
+  "status": "completed",
+  "duration_seconds": 8,
+  "resolution": "1080p",
+  "aspect_ratio": "16:9",
+  "actual_cost_usd": 0.96,
+  "submissions": 1,
+  "owner_approval": "yes, I approve"
+}

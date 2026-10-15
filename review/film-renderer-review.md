@@ -1,0 +1,15 @@
+# Film renderer source review
+
+Reviewed app.js, related hero CSS and hero HTML before generated film availability. This is source analysis, not a moving-sequence or final-media review. Parent reports owner approval for one paid film; generation is processing.
+
+The same normalized scroll position drives frame selection and staged semantic HTML on desktop/mobile. The frame folders differ, but timing is shared. Every text beat remains real HTML; links enter keyboard tab order after their reveal. Canvas paints only when frame or viewport dimensions change, including a same-frame resize. Existing poster remains behind canvas if manifest/images never load. Manual reduced motion displays the poster and all copy without scrubbing.
+
+## Risks requiring targeted verification
+
+- **P2: Rotation/breakpoint source mismatch.** `frameFolder` is initialized once from innerWidth. Resizing across 800px changes layout and image-cache cap, but keeps the original mobile/desktop assets. Reset/reload source cache when the folder changes, or intentionally document and test that both source sets preserve appropriate framing in both orientations.
+- **P2: Missing-frame retry loop.** `im.onerror` deletes the pending entry without a failure record or backoff. A missing desired/neighbor frame is requested again on each subsequent animation tick. Add a failed-frame set or bounded retry/backoff so partial media failure does not flood requests; retain a valid nearby frame or poster.
+- **P2: Unbounded simultaneous requests during rapid scroll.** A frame requests itself and up to eight neighbors. The pending set prevents duplicates but has no global limit, and the cache cap applies only after downloads complete. A fast scrub can enqueue much of the sequence. Test on mobile/network throttling or prioritize current frame with a bounded queue.
+- **Verification concern: text/film desynchronization under slow loading.** HTML follows current scroll immediately while canvas uses the nearest currently loaded frame, however distant. This is a sensible responsive fallback but cannot guarantee the intended shot/text pairing until downloads catch up. Check initial load, fast forward, fast reverse and release under throttling.
+- **Verification concern: reduced-mode status wording.** Frames preload even when manual reduced mode is active; the first successful download removes the pending-film badge although canvas is intentionally never drawn. Final copy must distinguish a real unavailable-film failure from the deliberate static mode. Current “production pending” wording will also be inaccurate if final media is deployed but fails to load.
+
+The crop uses cover scaling with horizontal alignment at 65% and centered vertical alignment. The image dimensions and resulting critical windshield/action crop must be checked against generated contact sheets at phone portrait, tablet portrait, desktop and rotated phone. No scene-content or cinematic parity judgment is possible before the actual film is supplied.
